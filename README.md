@@ -32,4 +32,4 @@ To run this project
 ```
 
 <hr >
-Made with ❤️ - abhikrishnaram
+Made with ❤️  - [abhikrishnaram](https://github.com/abhikrishnaram)
